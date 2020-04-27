@@ -1,11 +1,11 @@
 
-pulic class DoubleExample {
-	pulic static void main(String[] args) {
+public class DoubleExample {
+	public static void main(String[] args) {
 		float f1 = 0.345F;
 		double d1 = 10.3456;
 		
 		int result = 45 / 10; // 4
-		double result = 45 / 10; // 4.5
+		double result1 = 45 / 10; // 4.5
 		
 		float f2 = 0.1234567890123456789F;
 		double d2 = 0.1234567890123456789;
