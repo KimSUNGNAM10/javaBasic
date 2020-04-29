@@ -6,7 +6,6 @@ public class EvenSumExample {
             if ((i % 2 == 0 || i % 3 == 0)) {
                 System.out.println("2 또는 3의 배수: " + i);
             }
-
             if ((i % 2 == 0 && i % 3 == 0)) {
                 System.out.println("2 와 3의 배수: " + i);
             }
